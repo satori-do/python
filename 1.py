@@ -1,6 +1,9 @@
 #! /usr/bin/python
 
 print "Hello World!!!"
+print ("Hello World!!!")
+print ('Hello World!!!')
+print(2 ** 200)
 
 # Function definiution is here
 def printme( str ):
