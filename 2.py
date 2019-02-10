@@ -11,3 +11,4 @@ def changeme( mylist ):
 mylist = [10,20,30];
 changeme( mylist );
 print "Values outside the function: ", mylist
+print "Values outside the function: ", mylist
