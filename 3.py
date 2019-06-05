@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 exam_st_date = (('https://192.168.33.19',),)
 
 # Sample Output : The examination will start from : 11 / 12 / 2014
