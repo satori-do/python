@@ -28,6 +28,14 @@ status = True
 
 print ( "\n",number )
 
-print ("\nIt is a", number*2)
+print ("\nIt is a", number*2/2 + fnumber, name+"\n") # Concatenation, looks like to braid the braids...
+
+print ("Hello my name is "+name+". I'm " + str(number)+" years old." ) # Type casting
 
 #-----------------------------------------------------------------------------
+
+name = input( "Input your name: " )
+age = input( "Input your age: " )
+
+print ( "Hello " + name + "!" )
+print ( "You have a " + age + " years. It's great!" )
